@@ -1,0 +1,47 @@
+html,body {
+	/*font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 14px;*/
+  background: #D6DCDE url(images/bg.gif) repeat-x;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+td,th {
+	/*font-family: Georgia, Times New Roman, Times, serif;*/
+}
+a {
+	text-decoration: none;
+	color: #0000FF;
+}
+a:link {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:visited {
+	color: #0000FF;
+	text-decoration: none;
+}
+a:hover {
+	color: #0000FF;
+	background-color:#FFFFFF;
+}
+a:active {
+	color: #0000FF;
+	text-decoration: none;
+}
+.hre {
+  height: 1px;
+  margin: 8px 0px 8px 0px;
+  background-color: #000000;
+  position: relative;
+}
+.hre2 {
+  height: 2px;
+  margin: 8px 0px 8px 0px;
+  background-color: #000000;
+  position: relative;
+}
+.pagetitle {
+  font-size: 36px;
+  /*font-weight: bold;*/
+}
